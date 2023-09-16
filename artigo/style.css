@@ -11,6 +11,10 @@ header #coluna1{
    display: block;
    float: left;
 }
+header #coluna1 #barras{
+    width: 20%;
+    height: 60px;
+}
 header #coluna3{
     width: 12%;
     height: 60px;
