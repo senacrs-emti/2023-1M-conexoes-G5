@@ -7,7 +7,7 @@ header{
 header #coluna1{
    width: 20%;
    height: 60px;
-   background-color: brown;
+   background-color: rgb(40, 40, 40);
    display: block;
    float: left;
 }
@@ -18,14 +18,63 @@ header #coluna1 #barras{
 header #coluna3{
     width: 12%;
     height: 60px;
-    background-color: blue;
+    background-color: rgb(40, 40, 40);
     display: block;
     float: right;
 }
 header #coluna2{
     width: 68%;
     height: 60px;
-    background-color: blueviolet;
+    background-color: rgb(40, 40, 40);
     display: block;
     float: left;
+}
+#titulo{
+    font-size: 15px;
+    position: relative;
+    bottom: 40px;
+    margin-left: 60px;
+    color: white;
+}
+#numero{
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    margin-left: 300px;
+    margin-top: 20px;
+    border: none;
+    text-align: center;
+    color: white;
+}
+.page{
+    color: white;
+}
+#linha{
+    width: 1px;
+    height: 20px;
+    background-color: dimgrey;    
+    margin-left: 370px;
+    position: relative;
+    bottom: 22px;
+}
+#porcentagem{
+    width: 50px;
+    height: 20px;
+    background-color: black;
+    border: none;
+}
+.menos{
+    font-size: 25px;
+    color: white;
+}
+#zoom{
+    margin-left: 390px;
+    position: relative;
+    bottom: 53px;
+}
+#primeiroicone{
+    width: 20px;
+    height: 20px;
+    margin-left: 500px;
+    position: relative;
 }
