@@ -1,13 +1,13 @@
 header{
     width: 100%;
     height: 60px;
-    background-color: rgb(40, 40, 40);
+    background-color: rgb(50, 54, 57);
     display: block;
 }
 header #coluna1{
    width: 20%;
    height: 60px;
-   background-color: rgb(40, 40, 40);
+   background-color: rgb(50, 54, 57);
    display: block;
    float: left;
 }
@@ -18,14 +18,14 @@ header #coluna1 #barras{
 header #coluna3{
     width: 12%;
     height: 60px;
-    background-color: rgb(40, 40, 40);
+    background-color: rgb(50, 54, 57);
     display: block;
     float: right;
 }
 header #coluna2{
     width: 68%;
     height: 60px;
-    background-color: rgb(40, 40, 40);
+    background-color: rgb(50, 54, 57);
     display: block;
     float: left;
 }
@@ -75,6 +75,40 @@ header #coluna2{
 #primeiroicone{
     width: 20px;
     height: 20px;
+    margin-left: 535px;
+    position: relative;
+    bottom: 100px;
+    
+}
+#linha2{
+    width: 1px;
+    height: 20px;
+    background-color: dimgrey;    
     margin-left: 500px;
     position: relative;
+    bottom: 76px;
+}
+#segundoicone{
+    width: 20px;
+    height: 20px;
+    margin-left: 580px;
+    position: relative;
+    bottom: 124px;
+}
+#terceiroicone{
+   width: 20px;
+   height: 20px;
+   margin-top: 20px;
+}
+#quartoicone{
+    width: 20px;
+    height: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#quintoicone{
+    width: 20px;
+    height: 20px;
+    margin-left: 29px;
+    margin-top: 20px;
 }
